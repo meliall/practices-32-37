@@ -1,0 +1,8 @@
+const { test } = require('node:test')
+const request = require('supertest')
+const app = require('../server')
+test('GET / возвращает Hello, World!', async () => { await request(app).get('/').expect(200, 'Hello, World!') })
+test('POST /submit подтверждает отправку', async () => { await request(app).post('/submit').expect(200, 'Форма отправлена!') })
+test('PUT /update подтверждает обновление', async () => { await request(app).put('/update').expect(200, 'Данные обновлены!') })
+test('DELETE /delete подтверждает удаление', async () => { await request(app).delete('/delete').expect(200, 'Данные удалены!') })
+test('Параметр id попадает в ответ', async () => { await request(app).get('/users/14').expect(200, 'Профиль пользователя с ID: 14') })

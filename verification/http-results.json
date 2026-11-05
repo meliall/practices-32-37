@@ -1,0 +1,86 @@
+[
+  {
+    "practice": 36,
+    "method": "GET",
+    "url": "http://127.0.0.1:3000/",
+    "request": null,
+    "status": 200,
+    "response": "Hello, World!"
+  },
+  {
+    "practice": 36,
+    "method": "POST",
+    "url": "http://127.0.0.1:3000/submit",
+    "request": {},
+    "status": 200,
+    "response": "Форма отправлена!"
+  },
+  {
+    "practice": 36,
+    "method": "PUT",
+    "url": "http://127.0.0.1:3000/update",
+    "request": {},
+    "status": 200,
+    "response": "Данные обновлены!"
+  },
+  {
+    "practice": 36,
+    "method": "DELETE",
+    "url": "http://127.0.0.1:3000/delete",
+    "request": null,
+    "status": 200,
+    "response": "Данные удалены!"
+  },
+  {
+    "practice": 36,
+    "method": "GET",
+    "url": "http://127.0.0.1:3000/users/14",
+    "request": null,
+    "status": 200,
+    "response": "Профиль пользователя с ID: 14"
+  },
+  {
+    "practice": 37,
+    "method": "GET",
+    "url": "http://127.0.0.1:3001/hello/Anna",
+    "request": null,
+    "status": 200,
+    "response": "{\"message\":\"Привет, Anna!\"}"
+  },
+  {
+    "practice": 37,
+    "method": "GET",
+    "url": "http://127.0.0.1:3001/math/add?a=1&b=2",
+    "request": null,
+    "status": 200,
+    "response": "{\"result\":3}"
+  },
+  {
+    "practice": 37,
+    "method": "POST",
+    "url": "http://127.0.0.1:3001/users",
+    "request": {
+      "name": "Анна"
+    },
+    "status": 201,
+    "response": "{\"id\":697,\"name\":\"Анна\"}"
+  },
+  {
+    "practice": 37,
+    "method": "POST",
+    "url": "http://127.0.0.1:3001/trim",
+    "request": {
+      "text": " abc "
+    },
+    "status": 200,
+    "response": "\"abc\""
+  },
+  {
+    "practice": 37,
+    "method": "GET",
+    "url": "http://127.0.0.1:3001/missing",
+    "request": null,
+    "status": 404,
+    "response": "{\"error\":\"Маршрут не найден\"}"
+  }
+]

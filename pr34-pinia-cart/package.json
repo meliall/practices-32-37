@@ -1,0 +1,21 @@
+{
+  "name": "pr34-pinia-cart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "vue": "3.5.44",
+    "pinia": "^3.0.0",
+    "vue-router": "4.6.3"
+  },
+  "devDependencies": {
+    "vite": "6.4.5",
+    "@vitejs/plugin-vue": "5.2.4"
+  }
+}

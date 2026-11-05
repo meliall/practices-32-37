@@ -1,0 +1,2390 @@
+[
+  {
+    "path": "package.json",
+    "lines": 14,
+    "sha256": "85c5b89d7c7799386210d1c7203322de184ac440a7b1f73250584cf7c8032766",
+    "shots": [
+      {
+        "image": "screenshots/vscode/package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1016
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/index.html",
+    "lines": 13,
+    "sha256": "6e3f28447f05ce6dc416675b85c0b43b39696102a837fec266d124a327e14b9c",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__index.html--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2324,
+          969
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/package.json",
+    "lines": 19,
+    "sha256": "2acd4817eed088a91f4f8b488040104482405086ea6d68af303bb4167063bcab",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1382,
+          1276
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/App.vue",
+    "lines": 3,
+    "sha256": "0b8a4870148802a2a9b3037b443fb2cd1019b3b8855fc17cb656ae9ab8ac3838",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__App.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          850,
+          397
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/components/PageLayout.vue",
+    "lines": 12,
+    "sha256": "280298572c9639ece8a334c1ae36ea8dc8f3fc5ee2f47ac497b21b5c0bc91fc3",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__components__PageLayout.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2084,
+          866
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/data/courses.js",
+    "lines": 27,
+    "sha256": "4f6ad24b72cd9c381970e90f40aeffc18c11b0cc4832ee5ebb2aed427a41002b",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__data__courses.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__data__courses.js--003.png",
+        "cursorLine": 28,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1276,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1096,
+        "match": {
+          "codeMSE": 2.2050976753234863,
+          "gutterMismatch": 0.000633512856438756
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/main.js",
+    "lines": 7,
+    "sha256": "dd3349538a2c221ca7b8be17daea7daea07a324298e42c956e8aaa659fdd80a7",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__main.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1907,
+          606
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/CourseDescriptionPage.vue",
+    "lines": 10,
+    "sha256": "1b129fe475afcc616c69a5f9c1b4cfcc3a9a42719e20b3153c60dbf96b08e206",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CourseDescriptionPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2172,
+          761
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/CoursePage.vue",
+    "lines": 35,
+    "sha256": "6ebc8d2c6c5da6c32d4e0b6b0c74bcdafcbafe516165d1c9f5c56ba8a85d2c11",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursePage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursePage.vue--003.png",
+        "cursorLine": 36,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          860,
+          2360,
+          1534
+        ],
+        "overlapPixels": 680,
+        "match": {
+          "codeMSE": 2.1586239337921143,
+          "gutterMismatch": 0.0006741891847923398
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/CourseProgramPage.vue",
+    "lines": 12,
+    "sha256": "e90f0531368ec155f8e5e9c043a5eb69de9e1f4f2a2875a507c8d33bf7e50941",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CourseProgramPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1939,
+          866
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/CourseReviewsPage.vue",
+    "lines": 17,
+    "sha256": "672539da145aa00c4e5719f6efff493856feadc056ed15d832a51fdacdfcf8df",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CourseReviewsPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2228,
+          1126
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/CoursesListPage.vue",
+    "lines": 86,
+    "sha256": "9e617afd472356afce8e8d97bce94f5de645ccef60938a33a2a0cbd32032f2a2",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursesListPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursesListPage.vue--003.png",
+        "cursorLine": 49,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursesListPage.vue--004.png",
+        "cursorLine": 73,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 15.28856372833252,
+          "gutterMismatch": 0.0034305318258702755
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__CoursesListPage.vue--005.png",
+        "cursorLine": 87,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          754,
+          2360,
+          1534
+        ],
+        "overlapPixels": 574,
+        "match": {
+          "codeMSE": 0.18836821615695953,
+          "gutterMismatch": 0.0006638728664256632
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/DashboardPage.vue",
+    "lines": 30,
+    "sha256": "6f9529723196bd6b1065e8922a47cf3f38700adc192b90e8bc800aa452530d93",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__DashboardPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__DashboardPage.vue--003.png",
+        "cursorLine": 31,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1172,
+          2360,
+          1534
+        ],
+        "overlapPixels": 992,
+        "match": {
+          "codeMSE": 1.125592827796936,
+          "gutterMismatch": 0.0007961387163959444
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/HomePage.vue",
+    "lines": 15,
+    "sha256": "1d328553c47fbc008f66a60f8d9c5c03b4743107478e1f205c2e0491416b72b4",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__HomePage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2349,
+          1022
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/LoginPage.vue",
+    "lines": 53,
+    "sha256": "cb6a2a03b6f3343f380073a9255d5f82fc5dd36be82027c039de52c37959f1ea",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__LoginPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__LoginPage.vue--003.png",
+        "cursorLine": 46,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1492
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 1.0529121160507202,
+          "gutterMismatch": 0.0007215007208287716
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__LoginPage.vue--004.png",
+        "cursorLine": 54,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1066,
+          2360,
+          1534
+        ],
+        "overlapPixels": 886,
+        "match": {
+          "codeMSE": 0.0313369482755661,
+          "gutterMismatch": 0.0004984354600310326
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/pages/NotFoundPage.vue",
+    "lines": 15,
+    "sha256": "e30139aa44038f01e0b3b95b8bbc7640ca4521f3eefb318c37c4bc82bc4879b5",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__pages__NotFoundPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1956,
+          1022
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/router/index.js",
+    "lines": 47,
+    "sha256": "4298dab24636038b7cd41f1903e576fabacf0ab9c0b1787e7fd9f454d3526e40",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__router__index.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__router__index.js--003.png",
+        "cursorLine": 41,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 2.3667097091674805,
+          "gutterMismatch": 0.0009620009805075824
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__router__index.js--004.png",
+        "cursorLine": 48,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1170,
+          2360,
+          1534
+        ],
+        "overlapPixels": 990,
+        "match": {
+          "codeMSE": 1.6169224977493286,
+          "gutterMismatch": 0.00012463543680496514
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/src/style.css",
+    "lines": 61,
+    "sha256": "211af740abc65b4f129585ec0c08228604e8818bc0ea0796c81f023533683842",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__style.css--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__style.css--003.png",
+        "cursorLine": 35,
+        "cursorColumn": 84,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 17.985883712768555,
+          "gutterMismatch": 0.0019240019610151649
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__style.css--004.png",
+        "cursorLine": 55,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 17.02130699157715,
+          "gutterMismatch": 0.0
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr32-vue-router__src__style.css--005.png",
+        "cursorLine": 62,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1118,
+          2360,
+          1534
+        ],
+        "overlapPixels": 938,
+        "match": {
+          "codeMSE": 3.4266879558563232,
+          "gutterMismatch": 0.0016004197532311082
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr32-vue-router/vite.config.js",
+    "lines": 5,
+    "sha256": "b396958b0c9ada8759dbf50d700d8544b1a3b509dc5a6e66ee81cfa1bf63d11d",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr32-vue-router__vite.config.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1811,
+          502
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/index.html",
+    "lines": 13,
+    "sha256": "945ab2c82c920b1cec0aff2fa9dfb7a7bb54921fd83857e060e5a12ff9edb018",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__index.html--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2253,
+          969
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/package.json",
+    "lines": 20,
+    "sha256": "a8928a065fbeb8aec495fff98d5203db78858efdbd77dc95217e36d1c326283d",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1382,
+          1327
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/src/App.vue",
+    "lines": 9,
+    "sha256": "556fdaba66946359ad6303da0d3ecea2557b33582508b1765ce47641092f822b",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__App.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2349,
+          710
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/src/main.js",
+    "lines": 7,
+    "sha256": "2c084605826e51bfb6b18b764a10811cfa441f4a1cc67793ecbe09e1e64a4cdb",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__main.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2172,
+          606
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/src/pages/RegistrationPage.vue",
+    "lines": 211,
+    "sha256": "5e8d245775c6fa26e5e725f563d9f190e2db1133100961480132e2e0cb9be4a5",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          232,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--003.png",
+        "cursorLine": 44,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          288,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 3.490513324737549,
+          "gutterMismatch": 0.0004810004902537912
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--004.png",
+        "cursorLine": 62,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 3.3531153202056885,
+          "gutterMismatch": 0.002940455684438348
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--005.png",
+        "cursorLine": 85,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 1.240395426750183,
+          "gutterMismatch": 0.0041656456887722015
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--006.png",
+        "cursorLine": 108,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          232,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--007.png",
+        "cursorLine": 125,
+        "cursorColumn": 88,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 3.3633172512054443,
+          "gutterMismatch": 0.007106101606041193
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--008.png",
+        "cursorLine": 147,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 7.903344631195068,
+          "gutterMismatch": 0.0009801519336178899
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--009.png",
+        "cursorLine": 164,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 1.9075251817703247,
+          "gutterMismatch": 0.002695417730137706
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--010.png",
+        "cursorLine": 182,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 2.4824483394622803,
+          "gutterMismatch": 0.0044106836430728436
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--011.png",
+        "cursorLine": 198,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 2.1720051765441895,
+          "gutterMismatch": 0.0041656456887722015
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__pages__RegistrationPage.vue--012.png",
+        "cursorLine": 212,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          702,
+          2360,
+          1534
+        ],
+        "overlapPixels": 470,
+        "match": {
+          "codeMSE": 1.997567057609558,
+          "gutterMismatch": 0.002786485478281975
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/src/style.css",
+    "lines": 43,
+    "sha256": "fcea84d54f0ed5e70eb80ad95e2a30424e1cd644a99fead3de5bbe5881ba3e0a",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__style.css--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__style.css--003.png",
+        "cursorLine": 41,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 3.1190426349639893,
+          "gutterMismatch": 0.0004810004902537912
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__src__style.css--004.png",
+        "cursorLine": 44,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1378,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1198,
+        "match": {
+          "codeMSE": 1.0079214572906494,
+          "gutterMismatch": 0.00010389610542915761
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/tests/registration.test.js",
+    "lines": 174,
+    "sha256": "031d5a1aaf7bac9a7cb21e9eff884698b4f2a0ae90572e699ec774da3f1c93ea",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          232,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--002.png",
+        "cursorLine": 22,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1482,
+          850,
+          1534
+        ],
+        "overlapPixels": 1250,
+        "match": {
+          "codeMSE": 7.835697174072266,
+          "gutterMismatch": 0.00029923993861302733
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--003.png",
+        "cursorLine": 44,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          288,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 2.490656614303589,
+          "gutterMismatch": 0.003126503201201558
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--004.png",
+        "cursorLine": 67,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 1.4713079929351807,
+          "gutterMismatch": 0.002940455684438348
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--005.png",
+        "cursorLine": 89,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 1.5175514221191406,
+          "gutterMismatch": 0.0041656456887722015
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--006.png",
+        "cursorLine": 112,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 1.7523400783538818,
+          "gutterMismatch": 0.006861063651740551
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--007.png",
+        "cursorLine": 134,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          232,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--008.png",
+        "cursorLine": 156,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          286,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 7.883415699005127,
+          "gutterMismatch": 0.004900759551674128
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__tests__registration.test.js--009.png",
+        "cursorLine": 175,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          390,
+          2360,
+          1534
+        ],
+        "overlapPixels": 158,
+        "match": {
+          "codeMSE": 6.441860675811768,
+          "gutterMismatch": 0.0050711194053292274
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr33-forms-validation/vite.config.js",
+    "lines": 5,
+    "sha256": "11e40abdb49b92d0365f5b6ff7a22b7382c630107375da031b8589f5ef4c72d0",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr33-forms-validation__vite.config.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2172,
+          502
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/index.html",
+    "lines": 3,
+    "sha256": "9dd4a95744047bf74f70567afa25537dc90029a38b89f86ee4b768e05e82ffae",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__index.html--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          450
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/package.json",
+    "lines": 21,
+    "sha256": "8d11b7714c79e8230d6e17c990d4b55eec6b60bba99ffe3e234d42da085447ca",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1379
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/App.vue",
+    "lines": 14,
+    "sha256": "21906c5190149a53e940bbd9fe8c1a752754c45119139f17e12f4fd65537d893",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__App.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2204,
+          1022
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/data/products.js",
+    "lines": 7,
+    "sha256": "ebca648c80ab36affd974f5818e7e8ed290d78cfbf9b6771782cce00efe78c2f",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__data__products.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2004,
+          606
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/main.js",
+    "lines": 12,
+    "sha256": "d93fa50ea60c25f1058d1a305fd2d232968ce87973f5b740b76108f392b4212d",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__main.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1980,
+          866
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/pages/CartPage.vue",
+    "lines": 41,
+    "sha256": "8f89f475210ff8a5ac772f23bb21ee60617f125c34f4a1ec472ee05b3be11d78",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__pages__CartPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__pages__CartPage.vue--003.png",
+        "cursorLine": 37,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 0.6778638958930969,
+          "gutterMismatch": 0.0002405002451268956
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__pages__CartPage.vue--004.png",
+        "cursorLine": 42,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1222,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1042,
+        "match": {
+          "codeMSE": 2.0064339637756348,
+          "gutterMismatch": 0.000807236647233367
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/pages/CatalogPage.vue",
+    "lines": 26,
+    "sha256": "13764ccea47cb74a838ef29fadd2851638d0e20e94b10610060cecd2aadd9102",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__pages__CatalogPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1490
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__pages__CatalogPage.vue--003.png",
+        "cursorLine": 27,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1068,
+          2360,
+          1534
+        ],
+        "overlapPixels": 888,
+        "match": {
+          "codeMSE": 2.182434320449829,
+          "gutterMismatch": 0.0004697430122178048
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/router/index.js",
+    "lines": 13,
+    "sha256": "54921b6b270f03b1803491f5d4a5148ff5c2671a5c8227d1738ec13346bdcd7a",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__router__index.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1715,
+          917
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/stores/cart.js",
+    "lines": 96,
+    "sha256": "2612bace4cd072a8ee539c0c5aa27a4937c060ba39b1ed5e5da5fb9e69219ef8",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__cart.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__cart.js--003.png",
+        "cursorLine": 48,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 1.7040146589279175,
+          "gutterMismatch": 0.0007215007208287716
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__cart.js--004.png",
+        "cursorLine": 72,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.11534055322408676,
+          "gutterMismatch": 0.0036755697801709175
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__cart.js--005.png",
+        "cursorLine": 95,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.12527424097061157,
+          "gutterMismatch": 0.002695417730137706
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__cart.js--006.png",
+        "cursorLine": 97,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1430,
+          850,
+          1534
+        ],
+        "overlapPixels": 1250,
+        "match": {
+          "codeMSE": 2.025310754776001,
+          "gutterMismatch": 0.0014961996348574758
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/stores/favorites.js",
+    "lines": 14,
+    "sha256": "64972f1a75c8496fce2fce0e421e4242dff4bf6ab58ce0b5615ecec4ae2e28f0",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__stores__favorites.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2246,
+          970
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/src/style.css",
+    "lines": 20,
+    "sha256": "05bfe381e6a6615c2ef8111e5e4294e6b119bee13c3e104dfeb595f7cb0dcab3",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__style.css--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__src__style.css--003.png",
+        "cursorLine": 21,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          600,
+          2360,
+          1534
+        ],
+        "overlapPixels": 420,
+        "match": {
+          "codeMSE": 5.735456466674805,
+          "gutterMismatch": 0.0002751485735643655
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/tests/cart.test.js",
+    "lines": 53,
+    "sha256": "98c97a60069c501808eddc5c9de74e0284e5376e0e5041f0f43637668fc17881",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__tests__cart.test.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__tests__cart.test.js--002.png",
+        "cursorLine": 24,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1482,
+          2106,
+          1534
+        ],
+        "overlapPixels": 1302,
+        "match": {
+          "codeMSE": 4.742683410644531,
+          "gutterMismatch": 0.0002877477090805769
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__tests__cart.test.js--003.png",
+        "cursorLine": 47,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 2.2311224937438965,
+          "gutterMismatch": 0.003367003286257386
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__tests__cart.test.js--004.png",
+        "cursorLine": 54,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1170,
+          2360,
+          1534
+        ],
+        "overlapPixels": 990,
+        "match": {
+          "codeMSE": 1.0509588718414307,
+          "gutterMismatch": 0.0001994167105294764
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr34-pinia-cart/vite.config.js",
+    "lines": 4,
+    "sha256": "4f425c5495e58f124fe9a185e5232289cd62db8a0ab7990a007fe852982fd468",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr34-pinia-cart__vite.config.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1739,
+          450
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/index.html",
+    "lines": 3,
+    "sha256": "26dcd0edc0df90824717b559da71d1617365de26c22000723035bb63a199d8ad",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__index.html--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          450
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/package.json",
+    "lines": 21,
+    "sha256": "7e8ec7bef7c51cc8784ff7c715c7517fca913768d9d63a5d30b00b71395728e7",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1379
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/App.vue",
+    "lines": 12,
+    "sha256": "7dcf8650302f4fffe870147348c9935f8ac7d7c1a46cd0d55420d97ad30b363c",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__App.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2348,
+          970
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/main.js",
+    "lines": 12,
+    "sha256": "d93fa50ea60c25f1058d1a305fd2d232968ce87973f5b740b76108f392b4212d",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__main.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1980,
+          866
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/pages/AdminPage.vue",
+    "lines": 46,
+    "sha256": "dc88053e93214d73c4517e952170d12d5d3d7e0a9183749d7cca1351b86e7360",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__AdminPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__AdminPage.vue--003.png",
+        "cursorLine": 44,
+        "cursorColumn": 87,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 0.6733419299125671,
+          "gutterMismatch": 0.0004810004902537912
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__AdminPage.vue--004.png",
+        "cursorLine": 47,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1378,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1198,
+        "match": {
+          "codeMSE": 1.288455843925476,
+          "gutterMismatch": 0.00018701299268286675
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/pages/LoginPage.vue",
+    "lines": 38,
+    "sha256": "bfbfb718fc9ac4e0f15792d09401c833e2027b8f02f77e571d4d16f449f02afc",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__LoginPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__LoginPage.vue--003.png",
+        "cursorLine": 39,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          548,
+          2360,
+          1534
+        ],
+        "overlapPixels": 368,
+        "match": {
+          "codeMSE": 2.731114625930786,
+          "gutterMismatch": 0.000742115022148937
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/pages/ProfilePage.vue",
+    "lines": 22,
+    "sha256": "0b78f0c632382184499180976cbc6c21a3339c0b311a6ac44c3893620e2c27e6",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__ProfilePage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1438
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/pages/RegistrationPage.vue",
+    "lines": 29,
+    "sha256": "1a29210434dcb7d210d175d2ec98cba667f9601784993050aafb4811e7c5e34a",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__RegistrationPage.vue--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1438
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__pages__RegistrationPage.vue--003.png",
+        "cursorLine": 30,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1068,
+          2360,
+          1534
+        ],
+        "overlapPixels": 888,
+        "match": {
+          "codeMSE": 12.823126792907715,
+          "gutterMismatch": 0.0011052776826545596
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/router/guard.js",
+    "lines": 10,
+    "sha256": "f1d268f2476d0ec9ad03c26a534803f01a16b043b015d9de4a24500465743ca4",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__router__guard.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2196,
+          761
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/router/index.js",
+    "lines": 18,
+    "sha256": "fc61e6a2a5e442cb1a88304b9b4650eab293415b7712a5dbe8fc3a4ba90601d2",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__router__index.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1386
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/stores/auth.js",
+    "lines": 63,
+    "sha256": "d74281fb94a4f40138b50e70f4d8f44507f9c1669c5984a67897e79c8a3aa275",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__stores__auth.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__stores__auth.js--003.png",
+        "cursorLine": 49,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 3.1223442554473877,
+          "gutterMismatch": 0.0007215007208287716
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__stores__auth.js--004.png",
+        "cursorLine": 64,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          650,
+          2360,
+          1534
+        ],
+        "overlapPixels": 470,
+        "match": {
+          "codeMSE": 0.03473769500851631,
+          "gutterMismatch": 0.0006966213695704937
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/src/style.css",
+    "lines": 20,
+    "sha256": "05bfe381e6a6615c2ef8111e5e4294e6b119bee13c3e104dfeb595f7cb0dcab3",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__src__style.css--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__src__style.css--003.png",
+        "cursorLine": 21,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          600,
+          2360,
+          1534
+        ],
+        "overlapPixels": 420,
+        "match": {
+          "codeMSE": 5.735456466674805,
+          "gutterMismatch": 0.0002751485735643655
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/tests/auth.test.js",
+    "lines": 45,
+    "sha256": "8e793eb66f3a399f21cc5907d47958a03cd19484bdc168a4fd9aa5518adec74d",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__tests__auth.test.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__tests__auth.test.js--002.png",
+        "cursorLine": 23,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1482,
+          1603,
+          1534
+        ],
+        "overlapPixels": 1302,
+        "match": {
+          "codeMSE": 4.733723163604736,
+          "gutterMismatch": 0.00038366360240615904
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__tests__auth.test.js--003.png",
+        "cursorLine": 43,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1492
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 2.598944902420044,
+          "gutterMismatch": 0.0043290043249726295
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr35-auth__tests__auth.test.js--004.png",
+        "cursorLine": 46,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1326,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1146,
+        "match": {
+          "codeMSE": 3.105581760406494,
+          "gutterMismatch": 0.0009322897531092167
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr35-auth/vite.config.js",
+    "lines": 4,
+    "sha256": "4f425c5495e58f124fe9a185e5232289cd62db8a0ab7990a007fe852982fd468",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr35-auth__vite.config.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          1739,
+          450
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr36-express/package.json",
+    "lines": 21,
+    "sha256": "ed1808d76d6053a743e2c12628082b3e6e5c1c4dbee1ca631c61057c3dc5207f",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr36-express__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1379
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr36-express/server.js",
+    "lines": 27,
+    "sha256": "fb88dd0f12bf56d6174d5c5a7af446a227c7c8495d798ca593a656c4b71f374b",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr36-express__server.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr36-express__server.js--003.png",
+        "cursorLine": 28,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1380,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1200,
+        "match": {
+          "codeMSE": 1.751151442527771,
+          "gutterMismatch": 0.0007053649169392884
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr36-express/tests/server.test.cjs",
+    "lines": 8,
+    "sha256": "be23588b6f7cf5de5d157c599c873925c512b05cbee658277335ba1496e3262c",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr36-express__tests__server.test.cjs--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2126,
+          918
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/index.js",
+    "lines": 70,
+    "sha256": "da57ebb0d2522252ea98dd4b0dd205ae3bcc96f97ebf3ba4e3465dbd73c5f1b7",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__index.js--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__index.js--002.png",
+        "cursorLine": 25,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1482,
+          1867,
+          1534
+        ],
+        "overlapPixels": 1302,
+        "match": {
+          "codeMSE": 5.109664440155029,
+          "gutterMismatch": 0.00044121313840150833
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__index.js--003.png",
+        "cursorLine": 49,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 9.004570007324219,
+          "gutterMismatch": 0.005291005130857229
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__index.js--004.png",
+        "cursorLine": 71,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          338,
+          2360,
+          1534
+        ],
+        "overlapPixels": 158,
+        "match": {
+          "codeMSE": 0.2301955670118332,
+          "gutterMismatch": 0.0017316017765551805
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/package.json",
+    "lines": 23,
+    "sha256": "edf15da428df87a1e05a057b19fe59c739df35b84498a946eed966d9abff0312",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__package.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1483
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/postman/practice37.postman_collection.json",
+    "lines": 236,
+    "sha256": "7248c5abb6addb9b3e287937ef1a00e62423105a091bd528cb7a16122fce8807",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--003.png",
+        "cursorLine": 47,
+        "cursorColumn": 53,
+        "crop": [
+          130,
+          236,
+          2360,
+          1534
+        ],
+        "overlapPixels": 56,
+        "match": {
+          "codeMSE": 10.20396614074707,
+          "gutterMismatch": 0.0007215007208287716
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--004.png",
+        "cursorLine": 70,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 15.240213394165039,
+          "gutterMismatch": 0.0
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--005.png",
+        "cursorLine": 93,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--006.png",
+        "cursorLine": 117,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.12035005539655685,
+          "gutterMismatch": 0.006125949323177338
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--007.png",
+        "cursorLine": 139,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.12222709506750107,
+          "gutterMismatch": 0.000735113921109587
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--008.png",
+        "cursorLine": 162,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.24260154366493225,
+          "gutterMismatch": 0.005390835460275412
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--009.png",
+        "cursorLine": 186,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.4574986398220062,
+          "gutterMismatch": 0.0044106836430728436
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--010.png",
+        "cursorLine": 209,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1492
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.24230900406837463,
+          "gutterMismatch": 0.006616025697439909
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--011.png",
+        "cursorLine": 231,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          234,
+          2360,
+          1534
+        ],
+        "overlapPixels": 54,
+        "match": {
+          "codeMSE": 0.6978335976600647,
+          "gutterMismatch": 0.007596177514642477
+        }
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__postman__practice37.postman_collection.json--012.png",
+        "cursorLine": 237,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1222,
+          2360,
+          1534
+        ],
+        "overlapPixels": 1042,
+        "match": {
+          "codeMSE": 2.3604602813720703,
+          "gutterMismatch": 0.0011158859124407172
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/public/info.html",
+    "lines": 7,
+    "sha256": "e04a5dea1e0933e485bf8eb74e9e86ee1d5d4fa508ada435653458f684f0447b",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__public__info.html--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          814
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/scripts/run-postman.cjs",
+    "lines": 22,
+    "sha256": "40fb0c10b12df503f7beb35fdf8414f306f243179e17a0736db605bb8affa05b",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__scripts__run-postman.cjs--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1534
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__scripts__run-postman.cjs--002.png",
+        "cursorLine": 22,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          1482,
+          850,
+          1534
+        ],
+        "overlapPixels": 1302,
+        "match": {
+          "codeMSE": 7.0679473876953125,
+          "gutterMismatch": 0.0002877477090805769
+        }
+      }
+    ]
+  },
+  {
+    "path": "pr37-express-basics/tests/server.test.cjs",
+    "lines": 35,
+    "sha256": "c2a564a1ef494843697ce3a3e4f5af366126e34d5f4b0b7e835910e10b6ca357",
+    "shots": [
+      {
+        "image": "screenshots/vscode/pr37-express-basics__tests__server.test.cjs--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2360,
+          1489
+        ],
+        "overlapPixels": 0,
+        "match": null
+      },
+      {
+        "image": "screenshots/vscode/pr37-express-basics__tests__server.test.cjs--003.png",
+        "cursorLine": 36,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          496,
+          2360,
+          1534
+        ],
+        "overlapPixels": 316,
+        "match": {
+          "codeMSE": 7.061882019042969,
+          "gutterMismatch": 0.0009881423320621252
+        }
+      }
+    ]
+  },
+  {
+    "path": "scripts/setup.cjs",
+    "lines": 9,
+    "sha256": "ace38c77a40f4ab51f61884cce8ca3242818fd3d821e1c194a5ade21379283b3",
+    "shots": [
+      {
+        "image": "screenshots/vscode/scripts__setup.cjs--001.png",
+        "cursorLine": 1,
+        "cursorColumn": 1,
+        "crop": [
+          130,
+          180,
+          2347,
+          814
+        ],
+        "overlapPixels": 0,
+        "match": null
+      }
+    ]
+  }
+]

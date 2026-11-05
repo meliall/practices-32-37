@@ -1,0 +1,6 @@
+{
+  "node -v": "v24.22.1",
+  "npm -v": "11.19.1",
+  "pr36-express": "pr36-express@1.0.0 /Users/linka/Documents/Codex/2026-10-29/x20/outputs/practices-32-37/pr36-express\n└── express@5.3.0",
+  "pr37-express-basics": "pr37-express-basics@1.0.0 /Users/linka/Documents/Codex/2026-10-29/x20/outputs/practices-32-37/pr37-express-basics\n└── express@5.3.0"
+}

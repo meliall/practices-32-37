@@ -1,0 +1,14 @@
+{
+  "name": "practices-32-37",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.cjs",
+    "dev:32": "npm --prefix pr32-vue-router run dev -- --port 5232 --strictPort",
+    "dev:33": "npm --prefix pr33-forms-validation run dev -- --port 5233 --strictPort",
+    "dev:34": "npm --prefix pr34-pinia-cart run dev -- --port 5234 --strictPort",
+    "dev:35": "npm --prefix pr35-auth run dev -- --port 5235 --strictPort",
+    "start:36": "npm --prefix pr36-express start",
+    "start:37": "npm --prefix pr37-express-basics start"
+  }
+}

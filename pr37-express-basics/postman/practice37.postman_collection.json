@@ -1,0 +1,236 @@
+{
+  "info": {
+    "name": "Практика 37 — вариант 27",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:3000"
+    }
+  ],
+  "item": [
+    {
+      "name": "Главная",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 200', () => pm.response.to.have.status(200));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.text()).to.eql('Привет, Express!') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Параметр имени",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/hello/Anna"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 200', () => pm.response.to.have.status(200));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json().message).to.eql('Привет, Anna!') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Сложение query",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/math/add?a=1&b=2"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 200', () => pm.response.to.have.status(200));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json().result).to.eql(3) });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ошибка query",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/math/add?a=no&b=2"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 400', () => pm.response.to.have.status(400));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json()).to.have.property('error') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Создание пользователя",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{baseUrl}}/users",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"name\": \"Анна\"}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 201', () => pm.response.to.have.status(201));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json().id).to.be.a('number'); pm.expect(pm.response.json().name).to.eql('Анна') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Вариант 27 trim",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{baseUrl}}/trim",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"text\": \"  abc  \"}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 200', () => pm.response.to.have.status(200));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json()).to.eql('abc') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ошибка trim",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{baseUrl}}/trim",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"text\": 27}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 400', () => pm.response.to.have.status(400));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json()).to.have.property('error') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Статический HTML",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/info.html"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 200', () => pm.response.to.have.status(200));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.text()).to.include('Статический файл Express') });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Страница 404",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/missing"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('HTTP 404', () => pm.response.to.have.status(404));",
+              "pm.test('Содержимое ответа', () => { pm.expect(pm.response.json().error).to.eql('Маршрут не найден') });"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
